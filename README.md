@@ -8,3 +8,4 @@ A second line added
 1. Open index.html in your browser
 
 2a. Updated the document to test again
+2b. Updated from Github to reflect to local
